@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Saad Ahmed</h1>
-<h3 align="left">A passionate Software Engineer</h3>
+<h3 align="left">Red Hat Solution Architect Intern with a passion for DevOps, automation, and open source. Here to collaborate, learn, and contribute to the amazing world of tech.</h3>
 
 
-- 📫 How to reach me **saadahmed05999@gmail.com**
+- 📫 Reach me at **saadahmed05999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
