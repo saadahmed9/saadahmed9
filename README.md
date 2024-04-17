@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Saad Ahmed</h1>
-<h3 align="left">Red Hat Solution Architect Intern with a passion for DevOps, automation, and open source. Here to collaborate, learn, and contribute to the amazing world of tech.</h3>
+<h3 align="left"> Currently a Red Hat Solution Architect with a passion for DevOps, automation, and open source. Here to collaborate, learn, and contribute to the amazing world of tech.</h3>
 
 
 
